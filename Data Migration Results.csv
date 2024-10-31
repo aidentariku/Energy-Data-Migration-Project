@@ -1,0 +1,5 @@
+"record_id","plant_name","generation_type","total_generated","generation_date"
+1,"Wind Farm A","Wind","1500.00","2023-10-01"
+2,"Solar Plant B","Solar","1200.00","2023-10-01"
+3,"Natural Gas Plant C","Natural Gas","3000.00","2023-10-02"
+4,"Wind Farm D","Wind","1800.00","2023-10-02"
